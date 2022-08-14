@@ -7,4 +7,7 @@ Some description shalalalalal!
 Watch tutorial on Youtube
 heeyyy joeeee
 
+## Local Development
+
+ 1. open index.html on browser
 
